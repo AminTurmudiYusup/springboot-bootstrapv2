@@ -1,5 +1,8 @@
 # springboot-bootstrapv2
-Springboot+bootstrap v.2    1.Login page  2. Show simple Dashboard
+Springboot+bootstrap v.2 with flow app   
+1. Show Login page
+2. Insert username and password
+2. Show simple Dashboard
 
 # Prerequisite
 - Intellij Idea i use community version
